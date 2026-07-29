@@ -52,7 +52,7 @@
     devices = [
       {
         device = "/dev/sda";
-        options = "-a -s S/../../1-5/09";
+        options = "-a -s S/../.././09";
       }
     ];
   };
